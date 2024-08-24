@@ -27,7 +27,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy designing and programming<br/><br/>
+ ✌️ &emsp;  Enjoy designing and programming<br/><br/>
  ❤️ &emsp; Love writing code and learning new practices<br/><br/>
  📧 &emsp; Reach me anytime: andrewtpetty03@gmail.com<br/><br/>
 
