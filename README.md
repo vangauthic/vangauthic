@@ -21,14 +21,15 @@
 </p>
 <br />
 
-<p align="center">
  <img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- 💡 PASSIONATE INNOVATOR 💡  
- 👑 DRIVEN LEADER 👑  
- 📚 AVID LEARNER 📚  
-
+<p align="center">
+  <samp>
+💡 PASSIONATE INNOVATOR 💡  
+👑 DRIVEN LEADER 👑  
+📚 AVID LEARNER 📚  
+  </samp>
 </p>
+
 
 <br/>
 <br/>
