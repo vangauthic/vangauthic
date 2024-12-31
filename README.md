@@ -27,9 +27,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 💡 PASSIONATE INNOVATOR
- 👑 DRIVEN LEADER
- 📚 AVID LEARNER
+ 💡 PASSIONATE INNOVATOR  
+ 👑 DRIVEN LEADER  
+ 📚 AVID LEARNER  
 
 </p>
 
