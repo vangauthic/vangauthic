@@ -8,14 +8,14 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a backend developer and web designer from <b>Texas</b> 」
+    「 BORN IN HOUSTON, LIVING IN DALLAS 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://andrewtpetty.com" target="blank">
+ <a href="https://andrewpetty.dev" target="blank">
   <img src="https://img.shields.io/badge/Website-60A5FA?style=for-the-badge&logo=medium&logoColor=white" alt="andrewtpetty" />
  </a>
 </p>
@@ -27,9 +27,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ Enjoy designing and programming<br/><br/>
- ❤️ Love writing code and learning new practices<br/><br/>
- 📧 Reach me anytime: andrewtpetty03@gmail.com<br/><br/>
+ 💡 PASSIONATE INNOVATOR
+ 👑 DRIVEN LEADER
+ 📚 AVID LEARNER
 
 </p>
 
