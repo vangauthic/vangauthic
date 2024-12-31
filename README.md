@@ -16,7 +16,7 @@
 
 <p align="center">
  <a href="https://andrewpetty.dev" target="blank">
-  <img src="https://img.shields.io/badge/Website-C084FC?style=for-the-badge&logo=medium&logoColor=27272A" alt="andrewtpetty" />
+  <img src="https://img.shields.io/badge/Website-581C87?style=for-the-badge&logo=medium&logoColor=27272A" alt="andrewtpetty" />
  </a>
 </p>
 <br />
