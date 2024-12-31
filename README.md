@@ -38,7 +38,6 @@
 ## Use To Code
 
 <p align="center">
-  <samp>
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![Javascript](https://img.shields.io/badge/Javascript-5C9738?style=for-the-badge&labelColor=black&logo=javascript&logoColor=5C9738)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -48,7 +47,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  </samp>
 </p>
 
 <br/>
